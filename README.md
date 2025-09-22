@@ -8,9 +8,13 @@
 
 > *Passionate Web3 architect building the decentralized future with security-first mindset.*
 
-I'm a **Senior Blockchain Engineer** with a **Ph.D. in Computer Science** and **7+ years** of experience in advanced IT projects. My passion lies in creating secure, scalable Web3 solutions that push the boundaries of what's possible in the decentralized world.
+I'm a **Senior Blockchain Engineer** with a **Ph.D. in Computer Science** and **7+ years** of experience in advanced IT projects.
 
-Currently focused on **Smart Contract Security**, **DeFi protocols**, **DID systems**, and **Layer 2 scaling solutions**. I believe in building Web3 applications that are not just functional, but secure and user-friendly.
+I specialize in **smart contract security**, **Ethereum**, **Layer 2 scaling**, **cross-chain protocols**, **DID systems**, and **full-stack DeFi development**. Skilled in Solidity, Node.js, TypeScript, Rust, Go, and Docker, with strong expertise in zero-knowledge technologies and formal verification.
+
+I design and deploy DeFi platforms, multisig wallets, and DID solutions with ZK-based privacy. I also lead **smart contract audits** and developed a **formal verification tool** that identifies vulnerabilities, attack patterns, and abnormal behaviors.
+
+My work focuses on building scalable, secure, and interoperable blockchain systems that advance adoption of decentralized technologies.
 
 ---
 
@@ -46,6 +50,8 @@ Currently focused on **Smart Contract Security**, **DeFi protocols**, **DID syst
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat&logo=polygon&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EC?style=flat&logo=ethers&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-AC7EF4?style=flat&logo=viem&logoColor=white)
 
 **Frontend & Integration:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -53,9 +59,11 @@ Currently focused on **Smart Contract Security**, **DeFi protocols**, **DID syst
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-**Backend & DevOps:**
+**Backend & DevOps:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
