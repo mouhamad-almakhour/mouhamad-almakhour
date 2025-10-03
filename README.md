@@ -1,6 +1,6 @@
 # Hey there! I'm Mouhamad ALMAKHOUR ��
 
-**Senior Software Engineer | Blockchain Expert | Full-Stack | Web3 | Typescript | Next | Nest | Distributed Systems | Ph.D. in Computer Science**
+**Senior Software Engineer | Blockchain Expert | Full-Stack | Web3 | Typescript | Next | Nest | Distributed Systems**
 
 ---
 
