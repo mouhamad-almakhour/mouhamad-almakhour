@@ -1,6 +1,6 @@
 # Hey there! I'm Mouhamad ALMAKHOUR ��
 
-**Senior Blockchain Engineer | Smart Contract Auditor | Ph.D. in Computer Science**
+**Senior Software Engineer | Blockchain Expert | Full-Stack | Web3 | Typescript | Next | Nest | Distributed Systems | Ph.D. in Computer Science**
 
 ---
 
@@ -8,13 +8,13 @@
 
 > *Passionate Web3 architect building the decentralized future with security-first mindset.*
 
-I'm a **Senior Blockchain Engineer** with a **Ph.D. in Computer Science** and **7+ years** of experience in advanced IT projects.
+I’m a **Senior Software Engineer** with a **Ph.D. in Computer Science** and over 7 years of experience building secure and scalable systems across **backend, frontend, and blockchain**.
 
-I specialize in **smart contract security**, **Ethereum**, **Layer 2 scaling**, **cross-chain protocols**, **DID systems**, and **full-stack DeFi development**. Skilled in Solidity, Node.js, TypeScript, Rust, Go, and Docker, with strong expertise in zero-knowledge technologies and formal verification.
+I work on full-stack development using **Node.js, TypeScript, Go, Rust, React, NestJS, Next.js, and Docker,** and I have strong expertise in databases, APIs, and distributed systems.
 
-I design and deploy DeFi platforms, multisig wallets, and DID solutions with ZK-based privacy. I also lead **smart contract audits** and developed a **formal verification tool** that identifies vulnerabilities, attack patterns, and abnormal behaviors.
+On the blockchain side, I specialize in **smart contract security, Ethereum, Layer 2 scaling, cross-chain protocols, and zero-knowledge technologies**. I’ve designed and deployed **DeFi platforms, multisig wallets, and DID systems with ZK-based privacy**. 
 
-My work focuses on building scalable, secure, and interoperable blockchain systems that advance adoption of decentralized technologies.
+My focus is on building robust, secure, and interoperable systems that bridge Web2 and Web3, with real-world impact.
 
 ---
 
