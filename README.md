@@ -1,49 +1,45 @@
-# Hey there! I'm Mouhamad ALMAKHOUR ��
+# 👋 Hey there! I'm Mouhamad ALMAKHOUR
 
-**Senior Software Engineer | Blockchain Expert | Full-Stack | Web3 | Typescript | Next | Nest | Distributed Systems**
+**Senior Software Engineer | Blockchain Expert | Full-Stack | Web3 | Typescript | Next.js | NestJS | Distributed Systems**
 
 ---
 
-## �� About Me
+## 🧑‍💻 About Me
 
 > *Passionate Web3 architect building the decentralized future with security-first mindset.*
 
 I’m a **Senior Software Engineer** with a **Ph.D. in Computer Science** and over 7 years of experience building secure and scalable systems across **backend, frontend, and blockchain**.
 
-I work on full-stack development using **Node.js, TypeScript, Go, Rust, React, NestJS, Next.js, and Docker,** and I have strong expertise in databases, APIs, and distributed systems.
+I work on full-stack development using **Node.js, TypeScript, Go, Rust, React, NestJS, Next.js, and Docker,** .  I have deep expertise in backend architecture, distributed systems, databases, API design and smart contract development and auditing.
 
-On the blockchain side, I specialize in **smart contract security, Ethereum, Layer 2 scaling, cross-chain protocols, and zero-knowledge technologies**. I’ve designed and deployed **DeFi platforms, multisig wallets, and DID systems with ZK-based privacy**. 
+On the blockchain side, I specialize in **smart contract security, Ethereum, Layer 2 scaling, upgradeable contracts/proxies, cross-chain protocols, and zero-knowledge technologies**. I’ve designed and deployed **DeFi platforms, multisig wallets, and DID systems with ZK-based privacy**. 
 
 My focus is on building robust, secure, and interoperable systems that bridge Web2 and Web3, with real-world impact.
 
 ---
 
-## ⚡ What I Do in Web3
+## ⚡🧱 What I Do
 
-�� **Smart Contract Development & Auditing**
-- Design and implement secure Solidity contracts
-- Conduct comprehensive smart contract security audits
-- Formal verification using model checking and theorem proving
+### Full-Stack Development
+- Build scalable backend systems (Node.js, Go, Rust, NestJS)
+- Develop fast and responsive frontends (React, Next.js, Vue)
+- Design REST and GraphQL APIs, real-time apps, and integrations
+- Work with Docker, CI/CD, and cloud infrastructure
+
+  ### Blockchain Development
+- Write secure Solidity smart contracts
+- Audit smart contracts with formal verification
+- Develop DeFi protocols, NFT/SBT platforms, and DID solutions
+- Implement Layer 2 and cross-chain architectures
 
 ��️ **DeFi & DApp Architecture**
-- Build full-stack Web3 applications with React/Vue.js
+- Build full-stack Web3 applications with React/Next.js/Vue.js
 - Develop DeFi protocols and tokenization systems
 - Create NFT marketplaces and SBT implementations
 
-�� **Decentralized Identity (DID)**
-- Implement DID systems using ZK proofs
-- Privacy-preserving authentication solutions
-- Integration with Privado.id and other DID frameworks
-
-�� **Layer 2 & Cross-Chain Solutions**
-- Polygon and L2 scaling implementations
-- Optimistic and ZK rollups development
-- Cross-chain bridge architectures
-
-[![Website](https://img.shields.io/badge/verifysolidity-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://www.verifysolidity.com)
 ---
 
-## ��️ Tech Stack
+## 🛠️ Tech Stack
 
 **Blockchain & Web3:**
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
@@ -68,32 +64,34 @@ My focus is on building robust, secure, and interoperable systems that bridge We
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 
-## �� Current Focus
+## 🚀  What I'm Building Right Now
 
-### �� **What I'm Building Right Now**
+**Full-Stack Web3 Applications**
 
-**��️ Advanced Solidity Contract Development**
-- Creating gas-optimized smart contracts with complex business logic
-- Implementing upgradeable proxy patterns and diamond standards
-- Building comprehensive test suites with 100% coverage
-
-**�� Full-Stack Web3 Applications**
 - Developing seamless DApp frontends with React/Next.js
 - Integrating multiple wallet providers and chain switching
 - Building responsive UIs with real-time blockchain data
 
-**�� Account Abstraction (ERC-4337) Implementation**
-- Implementing smart contract wallets with social recovery
-- Building gasless transaction experiences for users
-- Creating custom paymaster contracts for sponsored transactions
+**Advanced Solidity Contract Development**
+
+- Creating gas-optimized smart contracts with complex business logic
+- Implementing upgradeable proxy patterns and diamond standards
+- Building comprehensive test suites with 100% coverage
 
 ---
-## �� Recent Innovation: AI Agent + Web3 Integration
-I've recently started exploring the intersection of **AI Agents** and **Web3**, creating intelligent systems that can autonomously interact with blockchain networks.
+## 🧪 Innovation: AI × Web3
+
+- Automated security auditing platform powered by AI  
+- AI agents managing DeFi portfolios  
+- Infrastructure for seamless AI-blockchain integration
+
 
 ## �� Next Steps
 
@@ -103,12 +101,13 @@ I've recently started exploring the intersection of **AI Agents** and **Web3**, 
 
 ---
 
-## �� Let's Connect
+## 📬 Let's Connect
 
-I'm always excited to discuss **blockchain security**, **AI + Web3 integration**, and **DeFi innovations**. Whether you need a security audit, want to collaborate on AI-powered Web3 projects, or just want to chat about the future of intelligent blockchain systems – feel free to reach out!
+I'm always excited to discuss **Full-stack architecture and technical consulting**, **blockchain security**, **AI + Web3 integration**, and **DeFi innovations**. Whether you need a security audit, want to collaborate on AI-powered Web3 projects, or just want to chat about the future of intelligent blockchain systems – feel free to reach out!
 
-�� **Available for:** Smart Contract Audits | AI + Web3 Development | Technical Consulting
+**Available for:** Smart Contract Audits | AI + Web3 Development | Technical Consulting
 
+📫 [![Website](https://img.shields.io/badge/verifysolidity-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://www.verifysolidity.com)
 ---
 
 *"Building the future where AI meets Web3 - secure, intelligent, and decentralized."*
