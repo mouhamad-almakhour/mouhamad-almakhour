@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Mouhamad ALMAKHOUR
 
-**Senior Software Engineer | Blockchain Expert | Full-Stack | Web3 | Typescript | Next.js | NestJS | Distributed Systems**
+**FullStack Engineer | React.js | Next.js | Node.js | Web3 | Blockchain**
 
 ---
 
@@ -8,13 +8,15 @@
 
 > *Passionate Web3 architect building the decentralized future with security-first mindset.*
 
-I’m a **Senior Software Engineer** with a **Ph.D. in Computer Science** and over 7 years of experience building secure and scalable systems across **backend, frontend, and blockchain**.
+**Full-Stack Engineer** with 6+ years of experience building **MVPs** and **production-ready** apps
 
-I work on full-stack development using **Node.js, TypeScript, Go, Rust, React, NestJS, Next.js, and Docker,** .  I have deep expertise in backend architecture, distributed systems, databases, API design and smart contract development and auditing.
+Stack: **React, Next.js, TypeScript, Node.js, NestJS, Go, Solidity, Docker, modern databases (PostgreSQL, MongoDB, Redis), REST APIs**.
 
-On the blockchain side, I specialize in **smart contract security, Ethereum, Layer 2 scaling, upgradeable contracts/proxies, cross-chain protocols, and zero-knowledge technologies**. I’ve designed and deployed **DeFi platforms, multisig wallets, and DID systems with ZK-based privacy**. 
+I design and develop **end-to-end applications**, from **frontend** interfaces to **backend** services. Strong experience in system design, distributed systems, microservices, APIs, and database, with a focus on scalability and reliability.
 
-My focus is on building robust, secure, and interoperable systems that bridge Web2 and Web3, with real-world impact.
+I also work on **blockchain systems**, specializing in **Solidity smart contract** development and security. Experience with **Ethereum standards** (ERC-20/4626/1155, EIP-712/2612), upgradeable contracts, Layer 2 solutions, cross-chain protocols, and zero-knowledge technologies.
+
+I’m currently working as a **freelance engineer**, building scalable full-stack systems and contributing to open-source Web3 projects.
 
 ---
 
