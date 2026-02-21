@@ -23,10 +23,10 @@ I’m currently working as a **freelance engineer**, building scalable full-stac
 ## ⚡🧱 What I Do
 
 ### Full-Stack Development
-- Build scalable backend systems (Node.js, Go, Rust, NestJS)
-- Develop fast and responsive frontends (React, Next.js, Vue)
+- Build and deliver MVPs and production-ready full-stack applications using React, Next.js, TypeScript, Node.js, NestJS, and Go.
+- Develop fast and responsive frontends (React, Next.js, Vue) with modern state management, authentication (OAuth2), and clean UI systems.
 - Design REST and GraphQL APIs, real-time apps, and integrations
-- Work with Docker, CI/CD, and cloud infrastructure
+- Own end-to-end delivery: system design, development, testing, and deployment using Docker and CI/CD pipelines.
 
   ### Blockchain Development
 - Write secure Solidity smart contracts
@@ -74,9 +74,9 @@ I’m currently working as a **freelance engineer**, building scalable full-stac
 
 
 ## 🚀  What I'm Building Right Now
+I design and develop end-to-end applications, from frontend interfaces to backend services. Strong experience in system design, distributed systems, microservices, APIs, and database, with a focus on scalability and reliability.
 
-**Full-Stack Web3 Applications**
-
+**Full-Stack Applications**
 - Developing seamless DApp frontends with React/Next.js
 - Integrating multiple wallet providers and chain switching
 - Building responsive UIs with real-time blockchain data
@@ -107,7 +107,7 @@ I’m currently working as a **freelance engineer**, building scalable full-stac
 
 I'm always excited to discuss **Full-stack architecture and technical consulting**, **blockchain security**, **AI + Web3 integration**, and **DeFi innovations**. Whether you need a security audit, want to collaborate on AI-powered Web3 projects, or just want to chat about the future of intelligent blockchain systems – feel free to reach out!
 
-**Available for:** Smart Contract Audits | AI + Web3 Development | Technical Consulting
+**Available for:** Full stack application | MVP | Smart Contract Audits | AI + Web3 Development | Technical Consulting
 
 📫 [![Website](https://img.shields.io/badge/verifysolidity-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://www.verifysolidity.com)
 ---
