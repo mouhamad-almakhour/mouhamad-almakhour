@@ -26,6 +26,8 @@ I’m currently working as a **freelance engineer**, building scalable full-stac
 - Build and deliver MVPs and production-ready full-stack applications using React, Next.js, TypeScript, Node.js, NestJS, and Go.
 - Develop fast and responsive frontends (React, Next.js, Vue) with modern state management, authentication (OAuth2), and clean UI systems.
 - Design REST and GraphQL APIs, real-time apps, and integrations
+- Developed core backend features and automation flows.
+- Built AI scoring, outreach, and scheduling components.
 - Own end-to-end delivery: system design, development, testing, and deployment using Docker and CI/CD pipelines.
 
   ### Blockchain Development
@@ -42,15 +44,6 @@ I’m currently working as a **freelance engineer**, building scalable full-stac
 ---
 
 ## 🛠️ Tech Stack
-
-**Blockchain & Web3:**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat&logo=polygon&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EC?style=flat&logo=ethers&logoColor=white)
-![Viem](https://img.shields.io/badge/Viem-AC7EF4?style=flat&logo=viem&logoColor=white)
-
 **Frontend & Integration:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -70,6 +63,14 @@ I’m currently working as a **freelance engineer**, building scalable full-stac
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
+**Blockchain & Web3:**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat&logo=polygon&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EC?style=flat&logo=ethers&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-AC7EF4?style=flat&logo=viem&logoColor=white)
+
 ---
 
 
@@ -77,6 +78,7 @@ I’m currently working as a **freelance engineer**, building scalable full-stac
 I design and develop end-to-end applications, from frontend interfaces to backend services. Strong experience in system design, distributed systems, microservices, APIs, and database, with a focus on scalability and reliability.
 
 **Full-Stack Applications**
+- Build and deliver MVPs and production-ready full-stack applications
 - Developing seamless DApp frontends with React/Next.js
 - Integrating multiple wallet providers and chain switching
 - Building responsive UIs with real-time blockchain data
