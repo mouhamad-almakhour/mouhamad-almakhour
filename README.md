@@ -16,7 +16,7 @@ I design and develop **end-to-end applications**, from **frontend** interfaces t
 
 I also work on **blockchain systems**, specializing in **Solidity smart contract** development and security. Experience with **Ethereum standards** (ERC-20/4626/1155, EIP-712/2612), upgradeable contracts, Layer 2 solutions, cross-chain protocols, and zero-knowledge technologies.
 
-I’m currently working as a **freelance engineer**, building scalable full-stack systems and contributing to open-source Web3 projects.
+I’m currently working as an **engineer**, building scalable full-stack systems and contributing to open-source Web3 projects.
 
 ---
 
